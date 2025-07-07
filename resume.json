@@ -2,15 +2,14 @@
   "titleNameMap": {
     "educationList": "教育背景",
     "workExpList": "工作经历",
-    "projectList": "项目经验",
-    "skillList": "个人技能",
+    "certificationList": "资格证书",
+    "skillList": "专业技能",
     "awardList": "更多信息",
-    "workList": "个人作品",
-    "aboutme": "个人评价"
+    "aboutme": "自我评价"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": false
+    "hidden": true
   },
   "profile": {
     "name": "廖晓娟 (新茗)",
